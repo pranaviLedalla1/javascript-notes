@@ -1,0 +1,19 @@
+/*
+ DOM:
+    Dom is document object model which is structured Representation of HTML documnets. 
+    Allows Javascript to access HTML elements and styles to manipulate them.
+    DOM is not part of Javascript but it is part of we APIs.
+
+
+Function:
+    function() {
+        console.log(324);
+    }
+
+Function expression:
+    const x = 
+    
+
+Refactoring:
+    Restructuring the code but without changing how it works.
+*/
